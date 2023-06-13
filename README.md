@@ -26,8 +26,9 @@ Here are some of the programming languages and tools I work with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".Net Core" width="40" height="40"/>
   <img src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" alt="ASP.Net Core MVC" width="40" height="40"/>
   <img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="40" height="40"/>
-  <img src="https://i.ytimg.com/vi/5SeYS2aRF34/mqdefault.jpg" alt="Fiber" width="40" height="40"/>
+  <img src="https://i.ytimg.com/vi/5SeYS2aRF34/mqdefault.jpg" alt="Fiber" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="Postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" alt="Redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
