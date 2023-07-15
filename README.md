@@ -8,4 +8,4 @@
 
 - 🐹 Currently working with Go and Node.js and learning C. 
 
-- 🔗 Connect with me on LinkedIn: ![Linkedin Profile](https://www.linkedin.com/in/abdullah-alaadine/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-alaadine/)
