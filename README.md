@@ -6,6 +6,6 @@
 
 - 🚀 Building powerful backend services is my passion.
 
-- 🐹 Currently working with Go and TypeScript and learning C. 
+- 🐹 Currently working with Go and TypeScript, and learning C. 
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-alaadine/)
