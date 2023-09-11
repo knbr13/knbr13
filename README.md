@@ -1,5 +1,3 @@
-# Hello! 👋
-
 ### I'm Abdullah, welcome to my Github profile. 🌟
 
 - 🌐 Full stack web developer with a focus on backend development.
