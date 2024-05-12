@@ -11,8 +11,6 @@
 
 💬 Ask me about: Go, Distributed Systems, Cloud Computing, and Backend Architecture.
 
-📚 I'm currently learning and exploring Rust and WebAssembly.
-
 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alaadine/)
