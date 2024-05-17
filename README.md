@@ -11,10 +11,11 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 
-
+<!--
 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alaadine/)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=knbr13&theme=react&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knbr13&theme=react&show_icons=true&hide_border=true&count_private=true)
+-->
